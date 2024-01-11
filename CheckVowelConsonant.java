@@ -1,5 +1,5 @@
 package Basic_Programs;
-
+//change the code
 import java.util.Scanner;
 
 public class CheckVowelConsonant {
